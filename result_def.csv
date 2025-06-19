@@ -1,0 +1,624 @@
+pergunta,resposta,texto,tempo,parte
+Quais falhas do Sagres foram discutidas do texto?,"As falhas do Sagres discutidas no texto são:
+
+* **Erro de cálculo no escore presente no Sagres** (reportado por vários alunos, afetando a matrícula).
+* **Problemas no lançamento do Sagres nos dias 09 e 10** (data de início na caderneta consta como 13/02/2023 para docentes que acessaram a caderneta 23.1 entre novembro e dezembro de 2022).
+* **Problemas com o sistema de vacinação**, como a falta de visualização do status da homologação pelos alunos e a dificuldade de anexar documentos.
+* **Dificuldade de anexar documento por erro no Servidor** (relatado por Pedro Prates).
+* **Sistema não ter como registrar falta (caso de estágio)**.
+* **Fechamento do sistema** (que impede ajustes).
+* **Relatórios que não podem mais ser gerados** (como o quadro de horários).
+* **Dificuldade de identificar as disciplinas de maior índice de reprovação**.
+* **Falta de acesso ao código do curso para recuperação de senha**.
+* **Mudanças de configuração e desaparecimento de serviços e relatórios**.
+* **Discentes não conseguem acessar o e-mail cadastrado no site e assim não conseguem recuperar a senha**.
+* **Relatos de erro ao tentar lançar notas da final**.
+* **Dados da terceira dose aparecem preenchidos, mas o comprovante só acusa duas doses**.
+* **Dificuldade na digitação do horário**.
+* **Não permite a alteração da data da dose de reforço**.
+* **Dificuldade em anexar o comprovante**.
+* **Após a assinatura, o documento não pode ser mais modificado**.
+* **A assinatura GOV só pode ser validada por meio digital, usando o arquivo original sem alterações, nem mesmo no nome do arquivo**.
+* **O sistema não está atualizado e que o processo de pedir ao DAA deixa tudo muito mais lento**.
+* **O sistema apresenta o nome de um outro professor** (problema de login).
+* **Erro de validação da assinatura GOV se o arquivo for modificado, mesmo mudando só o nome**.
+* **O sistema nem sempre cancela a matricula pq o professor não registra falta, ou até mesmo pq o sistema não tem como registrar falta (caso de estágio)**.
+* **Alunos não conseguem ver o status do pedido de homologação**.
+* **O sistema não permite inserir o comprovante no SISVAC, nem como atualizar a data da dose de reforço**.
+* **Problemas de acesso ao portal, lentidão e instabilidade**.
+* **Erro de cálculo no escore presente no Sagres**, que pode afetar na matrícula deles.
+* **Sistema não atualiza o email**.
+* **O sistema não tem como registrar falta (caso de estágio)**.
+* **Sistema mal configurado**.
+* **Acesso bloqueado apenas dos estudantes, pelo que me falaram**.
+* **Erro de validação da assinatura GOV**.
+* **Erro ao gerar relatório de quadro de horários**.
+* **Falta de visibilidade do status do pedido de homologação para os alunos**.
+* **O sistema não tem como registrar falta (caso de estágio)**.
+* **O sistema não permite mudar nada além do que já foi definido**.
+* **Talvez o comprovante que estejamos visualizando seja do semestre passado**.
+* **É preciso ter uma atenção redobrada**.
+* **Sistema ainda não atualizou**.
+* **Faltam algumas disciplinas que os departamentos não designaram docentes, então não dá pra digitar o horário**.
+* **O sistema não tem como colocar a oferta**.
+* **Deveriam ter deixado ao menos essa última semana, porque o ano só começa depois do carnaval**.
+* **Erro de cálculo no escore presente no Sagres e que pode afetar na matrícula deles**.
+* **Nomeação para coordenação do Colegiado de Matemática biênio 2024-2026**.
+* **Os estudantes fazem o pedido pelo SEI?**
+* **Os estudantes fazem o pedido pelo e-mail e encaminho pelo SEI por e-mail com cópia para o estagiário e a empresa**.
+* **A validação da assinatura GOV é feita pelo site GOV, vc envia o arquivo que contem a assinatura e se for verdadeira eles validam, mas se vc fizer qualquer mudança no arquivo ou até mesmo mudar o nome do arquivo, vai dar erro de validação**.
+* **E como fica o cadastro dos usuários externos? Tô interessado nesse assunto 😅**.
+* **Como acessar esse drive ?**.
+* **Os arquivos nao estao divididos por curso porque nao tive tempo**.
+* **Os arquivos eletrônicos estao no drive do coordena**.
+* **São muitos arquivos 😵‍💫**.
+* **Vou organizar e compartilho**.
+* **Enviei o resultado por colegiado**.
+* **Foi o que recebemos. Nem todos os nao homologados enviaram**.
+* **No anexo sao os que deram entrada no SESU**.
+* **Quem nao conseguir acesso me fale**.
+* **Iremos divulgar lista dos homologados e nao homologados dia 04, apos o ajuste presencial. Lembrando que os comprovantes precisam ser apresentados no colegiado e inserido no sistema para homologação**.
+* **Vera, estou vendo o comprovante de uma aluna de Letras Espanhol e ela o apresentou conforme orientação. Entretanto, ela segue como não homologada. Devo pedir para reavaliação ou peço para a aluna enviar o comprovante no período do ajuste?**.
+* **Vera, te enviei um único caso em Farmácia que não consigo anexar documento por erro no Servidor**.
+* **Ela vem com esse erro desde sempre**.
+* **Nem eu consegui**.
+* **O estudante pode trancar o curso em qualquer momento?**.
+* **Ele deve enviar solicitação para qual e-mail do DAA?**.
+* **Pessoal existe alguma resolução para o DAs? Falando sobre criação, composição, etc ?**.
+* **Vários alunos estão reportando um ""erro de cálculo no escore presente no Sagres"" e que pode afetar na matrícula deles. Vocês também estão recebendo esse tipo de reclamação?**.
+* **Sagres tem apresentado problemas hoje?**.
+* **Entro com o meu login e aparece o nome de um outro professor…**.
+* **Infelizmente não sei dizer qual o caminho.  Quando digitamos o horário peço a secretária para deixar impresso**.
+* **Eu usava esse quadro de horários, mas desde o semestre passado não consigo mais gerar o relatório, o meu tb fica assim**.
+* **a opção é gerar um relatório das vagas disponíveis, mas eu gostava muito desse quadro de horários**.
+* **alguém sabe dizer como identifico as disciplinas de maior índice de reprovação?**.
+
+É importante notar que alguns itens podem ter sido corrigidos ao longo das conversas, mas a transcrição reflete as preocupações e problemas relatados durante os períodos especificados.",1,45.9249792098999,
+Quais resoluções foram discutidas no Texto?,"As seguintes resoluções foram discutidas no texto:
+
+*   Resolução CONSU 039/2011 (mencionada diversas vezes)
+*   Resolução CONSEPE 117/2018 (mencionada diversas vezes)
+*   Resolução CONSU 46/2006 (mencionada diversas vezes)
+*   Resolução Consepe 01/2022
+*   Resolução Consepe 076/2022
+*   Resolução Consepe 084/2009
+*   Resolução CONSU 30/2002
+*   Resolução CONSU 126/2021
+*   Instrução Normativa PROGRAD/DAA Nº 003/2022
+*   Instrução Normativa 01/2020
+*   Resolução CONSU 174/2019
+*   Resolução CONSU 610/2024
+*   Resolução CONSU 611/2024
+*   Portaria n 266 de 28 de junho de 2024",1,39.131924629211426,
+Listar dicas de uso do Sagres,"## Dicas de Uso do SAGRES (UEFS) para Coordenadores de Colegiado
+
+Considerando o contexto das conversas no grupo, com foco nas necessidades e dificuldades dos coordenadores de colegiado da UEFS, aqui estão algumas dicas de uso do SAGRES, organizadas para facilitar o acesso às informações e otimizar o trabalho:
+
+**1. Acesso e Navegação:**
+
+*   **Link de Acesso:** Sempre utilize o link oficial do SAGRES disponibilizado no site da UEFS para evitar problemas de acesso ou informações desatualizadas. Verifique se o link está correto e atualizado.
+*   **Navegadores:** Se estiver enfrentando problemas de acesso ou visualização, experimente utilizar navegadores diferentes (Chrome, Firefox, Edge) ou limpar o cache do seu navegador.
+*   **Acesso Remoto:** Se estiver fora da UEFS e tiver problemas para acessar, tente utilizar um proxy.
+
+**2. Relatórios Essenciais para o Colegiado:**
+
+*   **Alunos Matriculados por Disciplina:**
+    *   *Caminho:* Relatório -> Matrícula -> Alunos Matriculados por Disciplina
+    *   *Utilidade:* Permite verificar quais alunos estão matriculados em cada turma. Pode ser filtrado por curso e período letivo, facilitando a identificação de matrículas irregulares ou necessidades de ajustes.
+*   **Relação de Escore por Ordem e Curso:**
+    *   *Caminho:* Relatório -> Alunos -> Relação de Escore por Ordem e Curso
+    *   *Utilidade:* Permite visualizar o escore dos alunos, importante para processos seletivos e matrículas com prioridade.
+*   **Reprovação e Aprovação por Disciplina:**
+    *   *Caminho:* Relatório -> Gerador de relatórios -> Reprovação e Aprovação por disciplina
+    *   *Utilidade:* Permite identificar as disciplinas com maior índice de reprovação, auxiliando na tomada de decisões pedagógicas.
+*   **Quadro de Evolução dos Alunos:**
+    *   *Caminho:* Relatório particular --> Alunos --> quadro de evolução dos alunos
+    *   *Utilidade:* Permite saber a quantidade de alunos regulares, abandono, cancelado, graduado por período.
+*   **Relatório/Planejamento/Vagas oferecidas/preenchidas:**
+    *   Útil para o ajuste de matrícula, permitindo visualizar as vagas disponíveis e preenchidas por disciplina.
+
+**3. Gestão de Matrículas e Vagas:**
+
+*   **Conferência de Matrículas:** Compare a lista de alunos matriculados no SAGRES com a lista de alunos que entregaram o Termo de Compromisso (no caso de ingressantes) ou comprovaram a vacinação.
+*   **Transferência de Vagas:** Para transferir vagas entre cursos, formalize a solicitação via SEI para a DAA (Divisão de Assuntos Acadêmicos), detalhando os códigos das disciplinas e a justificativa.
+*   **Liberação de Vagas Remanescentes:** Após o período de matrícula regular e a análise dos recursos, solicite à DAA a liberação das vagas remanescentes para que veteranos possam se matricular.
+*   **Ajuste de Matrícula:** Utilize o relatório de vagas oferecidas/preenchidas (Relatório/Planejamento/Vagas oferecidas/preenchidas) para auxiliar os alunos no ajuste de matrícula.
+*   **Relatório de alunos com propostas processadas e não confirmadas:** para identificar alunos que iniciaram o processo de ajuste mas não o finalizaram.
+
+**4. Ações Relacionadas à Vacinação:**
+
+*   **Comprovação Vacinal:**
+    *   Acesse o SisVac para verificar os comprovantes de vacinação.
+    *   Homologue os comprovantes do ConectSUS que estejam completos e corretos.
+    *   Para comprovantes físicos (carteira de vacinação), siga as orientações da PROGRAD quanto à aceitação e registro das informações no sistema.
+    *   Utilize o campo ""Observações"" no SisVac para registrar informações relevantes sobre a comprovação (tipo de documento, data de apresentação, etc.).
+*   **Alunos com Pendências:**
+    *   Entre em contato com os alunos pendentes por e-mail (o endereço aparece no sistema) para informá-los sobre a necessidade de regularização.
+*   **Respeite os Prazos:** Fique atento aos prazos estabelecidos no calendário da PROGRAD para a apresentação de comprovantes, homologação e recursos.
+*    **Comprovação presencial:** A comprovação presencial para quem não tiver o ConecSus.
+
+**5. Comunicação e Interação com a Comunidade Acadêmica:**
+
+*   **Utilize os canais oficiais:** Divulgue informações importantes (prazos, procedimentos, etc.) nos canais oficiais do colegiado (site, redes sociais, murais) e por e-mail.
+*   **Mantenha a comunicação com a DAA:** Em caso de problemas no sistema ou dúvidas sobre os procedimentos, entre em contato com a DAA para obter suporte e orientações.
+*   **Crie um ambiente de acolhimento:** Esteja disponível para ouvir as demandas dos alunos e professores, buscando soluções em conjunto.
+
+**6. Documentos e Legislação:**
+
+*   **Resoluções CONSU e CONSEPE:** Consulte as resoluções da UEFS para se manter atualizado sobre as normas e procedimentos da instituição.
+*   **Calendário Acadêmico:** Consulte o calendário acadêmico para verificar os prazos e datas importantes do semestre.
+*   **Instruções Normativas da PROGRAD:** Fique atento às instruções normativas da PROGRAD, que detalham os procedimentos para diversas atividades acadêmicas.
+*   **Regulamento de Estágio:** Consulte o regulamento de estágio do seu curso para obter informações sobre os requisitos e procedimentos para estágios obrigatórios e não obrigatórios.
+
+**7. Outras Dicas:**
+
+*   **Mantenha a calma:** O trabalho no colegiado pode ser desafiador e estressante, por isso é importante manter a calma e buscar o apoio dos colegas.
+*   **Trabalhe em equipe:** Divida as tarefas com a sua equipe (vice-coordenador, secretários, etc.) para evitar sobrecarga.
+*   **Utilize as ferramentas disponíveis:** Explore as funcionalidades do SAGRES e do SEI para otimizar o seu trabalho.
+*   **Participe das reuniões da Câmara de Graduação:** As reuniões da Câmara de Graduação são importantes para discutir questões relevantes para a graduação e trocar experiências com outros coordenadores.
+*   **Priorize o diálogo:** Busque sempre o diálogo com os alunos e professores para resolver os problemas e construir soluções em conjunto.
+
+**Observações Importantes:**
+
+*   A falta de clareza em algumas normas e procedimentos da UEFS pode gerar dúvidas e dificuldades. Nesses casos, busque o apoio da PROGRAD e da DAA para obter orientações.
+*   A comunicação transparente com os alunos e professores é fundamental para evitar ruídos e garantir o bom andamento das atividades acadêmicas.
+*   A criação de um ambiente de colaboração e apoio mútuo entre os membros do colegiado é essencial para superar os desafios e construir uma gestão eficiente e humanizada.
+
+Espero que estas dicas sejam úteis para o seu trabalho como coordenador de colegiado na UEFS!",1,47.458513498306274,
+Quais as palavras mais mencionadas por Rosa?,"Analisando o contexto das mensagens, as palavras mais mencionadas por Rosa (identificada como 🌹 Rosa Eugênia 🌹) são:
+
+1.  **Prezados/a(s)** (ou variações): Ela frequentemente inicia suas mensagens com essa saudação formal e respeitosa.
+2.  **Queridos/a(s)** (ou variações): Similarmente, ela usa essa forma carinhosa para se dirigir ao grupo.
+3.  **PROGRAD**: Devido a sua função, Rosa frequentemente menciona a PROGRAD em relação a comunicados, procedimentos e informações relevantes para os colegiados.
+
+Considerando o número limitado de mensagens e o contexto específico do grupo, essas parecem ser as palavras mais características de Rosa.",1,38.58975911140442,
+Quantas Resoluções CONSEPE foram citadas?,"1. 2022 - Resolução CONSEPE 01/2022
+2. 2 - Resolução CONSEPE 019/2023
+3. 1 - Resolução CONSEPE 076/2022
+4. 1 - Resolução CONSEPE 30/2002
+5. 1 - Resolução CONSEPE 039/2011
+6. 2 - Resolução CONSEPE 054/2001
+7. 1 - Resolução CONSU 04/2020
+8. 3 - Resolução CONSU 46/2006
+9. 1 - Resolução CONSU 07/2019
+10. 1 - Resolução CONSU 117/2018",1,39.068594455718994,
+"Quais professores mais participaram das conversas, listando o número de contribuições?","Com base nos dados fornecidos, os professores que mais participaram das conversas no grupo, listados pelo número de suas contribuições, são:
+
+1.  **Adriana Queiroz - Agronomia**: 67
+2.  **Laurenio Sombra**: 51
+3.  **Carla Borges**: 48
+4.  **João B. Rocha-Junior**: 40
+5.  **Saulo Rocha**: 35
+6.  **Vera Martin (Prograd)**: 27
+7.  **Marília Lordêlo**: 25
+8.  **Fredson Braz**: 24
+9.  **Ana Maria Carvalho**: 23
+10. **Myria Felix**: 22
+11. **Patricia Guimarães Costa**: 11
+12. **Cláudia**: 10
+13. **Luciana Bagdeve**: 10
+14. **Ingrid Gutiérrez UEFS**: 8
+15. **~ Márcia Misi**: 8
+16. **Ricardo**: 8
+17. **~ Alex**: 7
+18. **~ Prof Dra Irlana Jane**: 7
+19. **Pedro Prates**: 6
+20. **🌹 Rosa Eugênia 🌹**: 6
+21. **Gleice Cordeiro**: 5
+22. **~ Ady Sá Teles**: 5
+23. **~ Vanessa Vieira**: 5
+24. **Camila Leal Col Eng Civil**: 4
+25. **Gilmar🏋🏾‍♀️UEFS**: 3
+26. **Fábio DAA**: 3
+27. **Mauricio**: 3
+28. **~ Natival Simões Neto**: 2
+29. **~ Afonso 🍀🍁**: 2
+30. **Shirlei Tiara Prograd**: 2
+31. **Luciana Bagdeve**: 1
+32. **Antonio Codina UEFS**: 1
+33. **Silvia Passos**: 1
+34. **Luciana Bagdeve**: 1
+35. **🌹 Rosa Eugênia 🌹**: 1
+36. **~ Herval Moura**: 1
+37. **Priscila PLopes**: 1
+
+**Observações:**
+
+*   Os nomes foram listados como aparecem no contexto.
+*   As mensagens que foram apagadas não foram contabilizadas.
+*   A contagem é baseada na frequência de aparição dos nomes no contexto fornecido.
+*   Mensagens de sistema (entradas e saídas de participantes, edições de mensagens) não foram contabilizadas.
+*   Apenas a quantidade de mensagens foram contabilizadas, não a qualidade ou importância do conteúdo.",1,41.64548659324646,
+Quais falhas do Sagres foram discutidas do texto?,"Com base no texto fornecido, as falhas do SAGRES discutidas no grupo da Câmara de Graduação da UEFS estão relacionadas à:
+
+*   **Digitação e alocação de horários:** Os coordenadores enfrentam problemas ao usar o sistema para essas tarefas.
+*   **Acesso e funcionamento:** Dificuldades gerais no acesso e funcionamento do sistema SAGRES são mencionadas como um dos temas recorrentes.
+
+O texto não especifica detalhes adicionais sobre as falhas do SAGRES além dessas menções.",2,1.5099570751190186,2.0
+Quais resoluções foram discutidas no Texto?,"O texto fornecido não detalha resoluções específicas que foram *discutidas*. Ele descreve os temas recorrentes de discussão e preocupações do grupo de coordenadores da UEFS. Para saber quais resoluções foram discutidas, seria necessário ter acesso às mensagens trocadas no grupo da Câmara de Graduação.
+
+No entanto, com base nos temas recorrentes, podemos inferir que *possíveis* resoluções ou discussões sobre resoluções podem ter envolvido:
+
+*   **Matrículas:** Possíveis soluções para agilizar o processo, lidar com casos específicos de alunos (SISU, transferências, etc.) e resolver problemas com o sistema.
+*   **Comprovação Vacinal:** Procedimentos para garantir o cumprimento das normas sanitárias e homologação no SISVAC.
+*   **Digitação de Horários (SAGRES):** Estratégias para lidar com problemas no sistema e garantir a alocação correta de horários.
+*   **Aproveitamento de Estudos:** Critérios e procedimentos para análise de disciplinas cursadas em EAD ou outras instituições.
+*   **Estágios:** Regulamentação e acompanhamento dos estágios obrigatórios e não obrigatórios.
+*   **Curricularização da Extensão:** Implementação e funcionamento das UCEs.
+*   **Colação de Grau:** Verificação do cumprimento dos requisitos e procedimentos para a colação.
+*   **PIT/RIT:** Orientações sobre o preenchimento e prazos.
+*   **Funcionamento dos Sistemas Informatizados:** Soluções para problemas de acesso e usabilidade do SAGRES, SEI, etc.
+
+Em resumo, o texto nos dá uma boa ideia dos problemas enfrentados e, portanto, dos *tipos* de resoluções que provavelmente foram discutidas, mas não fornece detalhes sobre as resoluções em si.",2,3.243319511413574,2.0
+Listar dicas de uso do Sagres,"Considerando o contexto fornecido, as dicas de uso do SAGRES (Sistema Acadêmico de Gestão da UEFS) mais relevantes para os coordenadores de curso, com base nos temas recorrentes, são:
+
+**Dicas Gerais:**
+
+*   **Conheça a Estrutura do SAGRES:** Familiarize-se com as diferentes funcionalidades e módulos do sistema. Entenda como navegar e encontrar as informações que você precisa.
+*   **Guia e Tutoriais:** Verifique se existem guias de usuário ou tutoriais online (vídeos, PDFs) disponíveis no site da UEFS ou fornecidos pela PROGRAD/DAA.  Busque por eles antes de entrar em contato com o suporte.
+*   **Versão Atualizada:** Certifique-se de estar utilizando a versão mais recente do SAGRES. Versões antigas podem ter bugs ou falta de funcionalidades.
+*   **Acesso:**  Verifique se você tem as permissões de acesso corretas para realizar as tarefas que precisa. Caso contrário, solicite a correção ao setor responsável (DAA, geralmente).
+*   **Backup:** Faça backups regulares dos seus dados, especialmente antes de realizar alterações importantes.
+*   **Senhas:** Mantenha sua senha segura e não a compartilhe com ninguém.
+
+**Dicas Específicas (com base nos problemas recorrentes):**
+
+*   **Matrículas:**
+    *   **SISU/Transferência/Portador de Diploma:** Entenda o fluxo completo de matrícula para cada modalidade, desde a inscrição até a confirmação.  Verifique se há etapas específicas no SAGRES para cada caso.
+    *   **Prazos:**  Atente-se aos prazos de matrícula divulgados pelo DAA e PROGRAD e informe os alunos sobre eles.
+    *   **Documentação:**  Conheça os documentos necessários para cada tipo de matrícula e como eles devem ser inseridos no sistema.  Oriente os alunos sobre como proceder.
+    *   **Problemas:**  Tenha um plano de ação para lidar com problemas comuns de matrícula, como alunos que não conseguem acessar o sistema ou que têm documentos pendentes.
+*   **Alocação de Horários:**
+    *   **SAGRES:** Domine a funcionalidade de digitação e alocação de horários no SAGRES.  Verifique se há conflitos de horários antes de confirmar a alocação.
+    *   **Salas:**  Certifique-se de que as salas de aula alocadas são adequadas para o tamanho da turma e para o tipo de atividade (teórica, prática, etc.).
+    *   **Disponibilidade de Professores:**  Verifique a disponibilidade dos professores antes de alocar horários.
+*   **Aproveitamento de Estudos:**
+    *   **EAD/Outras Instituições:**  Conheça os critérios para o aproveitamento de estudos de disciplinas cursadas em EAD ou em outras instituições.
+    *   **Documentação:**  Saiba quais documentos são necessários para comprovar a equivalência das disciplinas.
+    *   **SAGRES:**  Entenda como registrar o aproveitamento de estudos no SAGRES.
+*   **Estágios (Obrigatórios e Não Obrigatórios):**
+    *   **Regulamentação:**  Conheça a regulamentação dos estágios (tanto obrigatórios quanto não obrigatórios) na UEFS.
+    *   **SAGRES:**  Verifique se há um módulo específico no SAGRES para o registro e acompanhamento dos estágios.
+    *   **Termos de Compromisso:**  Saiba como gerar e validar os termos de compromisso de estágio no sistema.
+*   **Colação de Grau:**
+    *   **Requisitos:**  Certifique-se de que os alunos cumpriram todos os requisitos para a colação de grau (disciplinas, estágio, atividades complementares, etc.).
+    *   **SAGRES:**  Utilize o SAGRES para verificar o histórico escolar dos alunos e confirmar se eles estão aptos a colar grau.
+    *   **Prazos:**  Informe os alunos sobre os prazos para a solicitação de colação de grau.
+*   **Relatórios (PIT/RIT):**
+    *   **Preenchimento:**  Familiarize-se com os formulários de PIT (Plano Individual de Trabalho) e RIT (Relatório Individual de Trabalho) e saiba como preenchê-los corretamente.
+    *   **SAGRES:**  Verifique se o preenchimento do PIT/RIT é feito diretamente no SAGRES ou se é necessário anexar os documentos.
+    *   **Prazos:**  Atente-se aos prazos para a entrega do PIT/RIT.
+
+**Dicas de Suporte e Comunicação:**
+
+*   **Canais de Comunicação:**  Identifique os canais de comunicação oficiais para suporte técnico do SAGRES (e-mail, telefone, etc.).
+*   **Documente os Problemas:**  Ao relatar um problema, forneça o máximo de informações possível (printscreens, descrições detalhadas, etc.).
+*   **Comunidade:** Utilize o grupo de coordenadores para compartilhar dúvidas e soluções sobre o SAGRES.  Alguém pode já ter enfrentado o mesmo problema que você.
+*   **PROGRAD/DAA:**  Mantenha contato com a PROGRAD e o DAA para obter informações atualizadas e orientações sobre o uso do SAGRES.  Aproveite a presença deles no grupo para tirar dúvidas.
+
+**Dica Final:**
+
+*   **Mantenha-se Atualizado:**  O SAGRES pode passar por atualizações e mudanças.  Esteja atento aos comunicados da PROGRAD e do DAA para se manter informado sobre as novidades.
+
+Ao seguir estas dicas, os coordenadores de curso da UEFS poderão utilizar o SAGRES de forma mais eficiente e eficaz, minimizando problemas e otimizando a gestão acadêmica.",2,9.06185531616211,2.0
+Quais as palavras mais mencionadas por Rosa?,"O contexto fornecido não menciona nenhuma pessoa chamada ""Rosa"". Para identificar as palavras mais mencionadas por uma pessoa específica, seria necessário ter acesso às mensagens que essa pessoa enviou dentro do grupo da Câmara de Graduação.
+
+Sem essa informação, não é possível responder à pergunta.",2,1.1186513900756836,2.0
+Quantas Resoluções CONSEPE foram citadas?,"O texto fornecido não menciona explicitamente quantas Resoluções CONSEPE foram citadas. Ele apenas descreve os temas recorrentes, os principais atores e a dinâmica do grupo de coordenadores de cursos da UEFS.",2,0.8393325805664062,2.0
+"Quais professores mais participaram das conversas, listando o número de contribuições?","Com base no contexto fornecido, não é possível determinar o número exato de contribuições de cada professor. O texto apenas cita alguns professores que participam do grupo, mas não quantifica a frequência de suas mensagens.
+
+A lista de professores mencionados, que contribuem com suas experiências, conhecimentos e opiniões é:
+
+*   Hélio Ponce
+*   Laurenio Sombra
+*   Adriana Queiroz
+*   João B. Rocha-Junior
+*   Myria Felix
+*   Gleice Cordeiro
+*   Fredson Braz
+*   Ana Maria Carvalho
+*   Ricardo
+
+Para saber a quantidade de contribuições de cada um, seria necessário analisar o histórico completo das conversas do grupo.",2,1.5752043724060059,2.0
+Quais falhas do Sagres foram discutidas do texto?,"As seguintes falhas do Sagres foram mencionadas no texto:
+
+*   **Problemas de acesso:** Usuários, incluindo professores e alunos, relataram dificuldades para acessar o sistema.
+*   **Lentidão:** O sistema foi descrito como lento em vários momentos.
+*   **Erros de lançamento de notas:** Professores tiveram problemas para lançar notas.
+*   **Informações desatualizadas:** Dados como horários e cadastro de alunos não estavam atualizados.
+*   **Dificuldade em gerar relatórios:** Problemas em gerar relatórios específicos, como os de aprovação/reprovação por disciplina ou lista de alunos matriculados.
+*   **Problemas com a funcionalidade do SISVAC:** Dificuldades em verificar e homologar informações de vacinação.
+*   **Problemas com dados de alunos:** Erros na importação de dados de alunos, levando a informações incorretas sobre matrícula e outras situações.
+*   **Problemas com links:** Links quebrados ou redirecionando para páginas incorretas.
+*   **Perda de dados:** Relatos de dados inseridos que sumiram do sistema.
+*   **Impedimento de matrículas:** Alunos com situações pendentes de homologação sendo impedidos de realizar matrículas.
+*   **Dificuldade em recuperar senha:** Alunos com dificuldade em recuperar senhas.
+*   **Problemas com a interface:** Interface pouco intuitiva, dificultando a navegação e o acesso a funcionalidades.
+*   **Desaparecimento de opções e serviços:** Relatos de que opções e serviços (como geração de relatórios e configurações de matrícula) desapareciam do sistema.
+*   **Diferentes visões sobre a mesma situação:** O sistema mostrava informações diferentes para diferentes usuários (ex: status de homologação).
+*   **Inconsistência com a legislação:** Problemas em fazer o sistema seguir corretamente a legislação vigente, como a obrigatoriedade de vacinação.
+*   **Dificuldade em cadastrar UCEs:** Dificuldades na implementação de Unidades Curriculares de Extensão.
+*   **Desconexão com o DAA:** Falta de sincronia entre o sistema e o DAA, levando a informações conflitantes.
+*   **Problemas com a importação de dados do SISU:** Dificuldade em obter dados corretos de alunos ingressantes via SISU.
+*   **Sobrecarga do sistema:** Em determinados períodos, o sistema ficava sobrecarregado, causando lentidão e erros.
+*   **Problemas com o envio de arquivos:** Dificuldades em anexar arquivos (como comprovantes de vacinação) devido a limites de tamanho ou erros no sistema.
+*   **Falta de clareza sobre o processo de transferência de vagas:** Confusão sobre o trâmite para transferência de vagas entre cursos.
+*   **Dificuldade em acessar o sistema fora da UEFS:** Problemas de acesso ao sistema para usuários que não estavam na rede da universidade.
+*   **Problemas com o cálculo de escore:** Erros no cálculo do escore dos alunos, afetando suas matrículas.
+*   **Problemas com a assinatura GOV:** Problemas com a validação de assinaturas GOV em documentos.
+*   **Insegurança:** Assédio em páginas de jogos do site institucional.
+*   **Dificuldade de acesso aos dados:** Dificuldade de acesso a dados como o número total de alunos matriculados por curso.
+*   **Comprovantes de vacinação:** Dificuldade em homologar comprovantes de vacinação.
+
+Essas falhas causaram diversos problemas para os usuários, incluindo atrasos na matrícula, dificuldades em acessar informações importantes e retrabalho para os servidores.",3,47.0757954120636,
+Quais resoluções foram discutidas no Texto?,"As seguintes resoluções foram discutidas no texto:
+
+* **Resolução sobre o uso de máscara:**  Discutida em 01/06/22 e 02/02/23, relacionada à obrigatoriedade ou recomendação do uso de máscaras.
+* **Resolução sobre vagas semestrais reservadas para o SISU:** Mencionada em 01/09/22, sobre o preenchimento de vagas remanescentes por alunos veteranos.
+* **Resolução sobre comprovação de vacinação:**  Discutida em 01/08/22, relacionada à necessidade de comprovação vacinal para homologação de matrícula.
+* **Resolução sobre reingresso:** Mencionada em 01/04/22.
+* **Resolução sobre estágio:** Discutida em 01/03/24, sobre a Resolução que trata estágio obrigatório.
+* **Resolução referente ao Programa de Exercícios Domiciliares:** Mencionada em 09/09/23, sobre o direito a recursos.
+* **Resolução sobre as Atividades Complementares:** Mencionada em 11/09/22, sobre a obrigatoriedade ou não de apresentar as atividades complementares.
+* **Resolução sobre o calendário acadêmico:** Mencionada em 11/23, sobre a alteração do calendário devido à greve.
+* **Resolução CONSU nº 11/2018:** Mencionada em 17/01/23, sobre a curricularização da extensão.
+* **Resoluções sobre o Trabalho de Conclusão de Curso (TCC):** Mencionadas em diversas datas, sobre a possibilidade de defesa remota, prazos, e regulamentação do TCC.
+* **Resolução sobre a criação e composição de colegiados:** Mencionada em 01/03/22.
+* **Resolução sobre Atividades de Estágio:** Mencionada em 01/03/24, sobre a Resolução que trata estágio obrigatório.
+* **Resoluções referentes à avaliação e aprendizagem:** Mencionadas em 01/06/22, relacionada a critérios de avaliação e registro de notas.
+* **Resoluções sobre a concessão de regime de exercícios domiciliares:** Mencionadas em 01/08/24.
+* **Resolução sobre a validação de documentos com assinatura GOV:** Mencionada em 01/02/24.
+* **Resoluções sobre a obrigatoriedade de vacinação para matrícula:** Mencionadas em 09/06/22.
+* **Resolução que regula dispensa de faltas com atestado médico:** Mencionada em 01/06/23.
+* **Resolução sobre atribuições dos colegiados de curso de graduação da UEFS:** Mencionada em 03/03/22.
+* **Resolução sobre a possibilidade de reuniões remotas:** Mencionada em 01/02/23 e em várias outras datas.
+* **Resolução CONSU sobre a regulamentação do TCC:** Mencionada em 08/03/24.
+* **Resolução sobre a possibilidade de punição para canais que promovam assédio:** Mencionada em 01/06/22.
+* **Resoluções internas dos colegiados sobre estágio:** Mencionada em 01/03/24.
+* **Resolução sobre a criação e composição de colegiados:** Mencionada em 01/03/22.
+* **Resolução sobre a criação de disciplinas optativas:** Mencionada em 01/06/22.
+* **Resolução que estabelece o calendário para homologação da vacinação:** Mencionada em 01/08/22.
+* **Resolução que trata da Feira de Graduação:** Mencionada em 01/02/24.
+* **Resolução sobre a necessidade de apresentação de comprovante vacinal:** Mencionada em 01/08/22.
+* **Resolução Consepe 65/2022, sobre a curricularização da extensão:** Mencionada em 05/05/22.
+* **Resolução que trata da obrigatoriedade de vacinação:** Mencionada em 09/06/22.
+* **Resolução que trata dos exercícios domiciliares:** Mencionada em 09/09/23.
+* **Resolução sobre a regulamentação de reuniões remotas:** Mencionada em 01/06/22, 02/02/23 e 08/08/22.
+* **Resolução que trata da distribuição de bolsas:** Mencionada em 01/09/22.
+* **Resolução que trata da obrigatoriedade da vacinação para a sala de aula:** Mencionada em 01/09/22.
+* **Resolução que trata do trancamento de curso:** Mencionada em 01/03/22, 01/03/23 e 01/08/22.
+* **Resolução que trata do acesso ao Sagres Acadêmico:** Mencionada em 01/03/24.
+* **Resolução que trata da matrícula em cursos de licenciatura:** Mencionada em 01/09/22.
+* **Resolução Consepe 21/2022:** Mencionada em 01/08/22.
+* **Resolução sobre o reajuste salarial:** Mencionada em 01/06/24.
+* **Resolução do governo que cessa os efeitos da pandemia:** Mencionada em 01/09/22.
+* **Resolução sobre o limite de faltas:** Mencionada em 01/09/22.
+* **Resolução sobre os critérios de processo de recurso:** Mencionada em 01/08/22.
+* **Resolução do CONSU sobre o regimento dos colegiados:** Mencionada em 03/03/22.
+* **Resolução do CONSU sobre a apresentação do comprovante vacinal:** Mencionada em 08/08/22.
+* **Resolução sobre a criação e composição de colegiados:** Mencionada em 01/03/22.
+* **Resolução sobre atividades complementares:** Mencionada em 11/01/23.
+* **Resolução que trata sobre a curricularização da extensão:** Mencionada em 01/06/22 e 05/05/22.
+* **Resolução sobre critérios de seleção:** Mencionada em 02/02/23.
+* **Resolução sobre punição a assediadores:** Mencionada em 01/06/22.
+* **Resolução sobre estágio curricular:** Mencionada em 01/02/24.
+* **Resolução sobre o relatório do planejamento de vagas:** Mencionada em 01/03/24.
+* **Resolução CONSU sobre o reingresso:** Mencionada em 01/04/22.
+* **Resolução sobre o reajuste salarial:** Mencionada em 01/06/24.
+* **Resolução que estabelece normas para a concessão de regime de exercícios domiciliares:** Mencionada em 01/03/24.
+* **Resolução sobre a assinatura GOV:** Mencionada em 01/02/24.
+* **Resolução que estabelece o calendário para homologação da vacinação:** Mencionada em 01/08/22.
+* **Resolução sobre a criação da Feira de Graduação:** Mencionada em 01/02/24.
+* **Resolução sobre o calendário vacinal:** Mencionada em 01/03/22.
+* **Resolução sobre a criação de comissões:** Mencionada em 01/03/22.
+* **Resolução sobre o trancamento:** Mencionada em 01/03/22.
+* **Resolução sobre trancamento da matrícula:** Mencionada em 01/03/22.
+* **Resolução sobre a listagem de alunos:** Mencionada em 01/03/22.
+* **Resolução sobre a digitalização dos comprovantes:** Mencionada em 01/03/22.
+* **Resolução sobre o ajuste presencial:** Mencionada em 01/03/22.
+* **Resolução sobre o acesso externo:** Mencionada em 01/03/22.
+* **Resolução sobre o trancamento de curso:** Mencionada em 01/03/22.
+* **Resolução sobre o erro de cálculo:** Mencionada em 01/03/23.
+* **Resolução que trata estágio:** Mencionada em 01/03/24.
+* **Resolução sobre estágio obrigatório:** Mencionada em 01/03/24.
+* **Resolução que trata o estágio:** Mencionada em 01/03/24.
+* **Resolução sobre o estágio obrigatório curricular:** Mencionada em 01/02/24.
+* **Resolução que trata o estágio:** Mencionada em 01/03/24.
+* **Resolução sobre a obrigatoriedade do estágio curricular:** Mencionada em 01/02/24.
+* **Resolução da Consepe sobre a validação da vacinação:** Mencionada em 01/08/22.
+* **Resolução sobre o acesso a documentos:** Mencionada em 01/06/22.
+* **Resolução sobre a realização de provas:** Mencionada em 01/06/22.
+* **Resolução sobre a punição:** Mencionada em 01/06/22.
+* **Resolução sobre a cirricularização:** Mencionada em 01/06/22.
+* **Resolução sobre o processo de exclusão da disciplina:** Mencionada em 03/03/22.
+* **Resolução sobre a nota:** Mencionada em 03/01/24.
+* **Resolução sobre a avaliação:** Mencionada em 03/01/24.
+* **Resolução sobre o ajuste de matrícula:** Mencionada em 01/03/23.
+* **Resolução sobre o sagres:** Mencionada em 01/03/23.
+* **Resolução sobre a vacinação:** Mencionada em 01/03/23.
+* **Resolução sobre a matrícula:** Mencionada em 01/03/23.
+* **Resolução do governo:** Mencionada em 01/09/22.
+* **Resolução sobre o curso:** Mencionada em 01/09/22.
+* **Resolução sobre a recomposição salarial:** Mencionada em 01/06/24.
+* **Resolução sobre estágio:** Mencionada em 01/03/24.
+* **Resolução sobre as vagas:** Mencionada em 01/09/22.
+* **Resolução sobre a pandemia:** Mencionada em 01/09/22.
+* **Resolução sobre a repescagem:** Mencionada em 01/03/22.
+* **Resolução sobre a homologação:** Mencionada em 01/08/22.
+* **Resolução sobre a homologação:** Mencionada em 01/03/22.
+* **Resolução sobre o acesso a documentos:** Mencionada em 01/06/22.
+* **Resolução que trata estágio:** Mencionada em 01/03/24.
+* **Resolução sobre as assinaturas:** Mencionada em 01/02/24.
+* **Resolução sobre a criação de colegiados:** Mencionada em 01/03/22.
+* **Resolução sobre o trancamento de curso:** Mencionada em 01/03/22.
+* **Resolução sobre a criação e a composição do colegiado:** Mencionada em 01/03/22.
+* **Resolução que trata sobre a obrigatoriedade da vacinação:** Mencionada em 01/03/22.
+* **Resolução sobre a participação em eventos:** Mencionada em 01/03/23.
+* **Resolução referente ao estágio:** Mencionada em 01/03/24.
+* **Resoluções sobre a obrigatoriedade da vacinação:** Mencionada em 01/03/22.
+* **Resolução sobre a participação dos alunos:** Mencionada em 01/03/24.
+* **Resolução sobre a composição do colegiado:** Mencionada em 01/03/22.
+* **Resolução sobre o estágio obrigatório:** Mencionada em 01/03/24.
+* **Resolução sobre a homologação da vacina:** Mencionada em 01/03/22.
+* **Resolução sobre o SISU:** Mencionada em 01/09/22.
+* **Resolução sobre a reestruturação curricular:** Mencionada em 01/08/22.
+* **Resolução sobre o trancamento de curso:** Mencionada em 01/03/22.
+* **Resolução que trata sobre a documentação:** Mencionada em 01/08/22.
+* **Resolução sobre o acesso ao Sagres:** Mencionada em 01/03/24.
+* **Resolução sobre o reajuste salarial:** Mencionada em 01/06/24.
+* **Resolução sobre os estágios:** Mencionada em 01/03/24.
+* **Resolução sobre a curricularização:** Mencionada em 05/05/22.
+* **Resolução sobre a emergência sanitária:** Mencionada em 01/09/22.
+* **Resolução sobre o auxílio:** Mencionada em 01/03/24.
+* **Resolução sobre o relatório:** Mencionada em 01/03/24.
+* **Resolução sobre os critérios:** Mencionada em 01/03/24.
+* **Resolução sobre a homologação:** Mencionada em 01/08/22.
+* **Resolução sobre a recomendação:** Mencionada em 02/01/23.
+* **Resolução sobre o acesso:** Mencionada em 01/06/23.
+* **Resolução sobre o afastamento:** Mencionada em 01/06/23.
+* **Resolução sobre a matrícula:** Mencionada em 01/03/23.
+* **Resolução sobre a obrigatoriedade:** Mencionada em 01/03/23.
+* **Resolução sobre a vacinação:** Mencionada em 01/03/23.
+* **Resolução sobre os resultados:** Mencionada em 01/03/22.
+* **Resolução sobre os cursos:** Mencionada em 01/03/22.
+* **Resolução sobre o drive:** Mencionada em 01/03/22.
+* **Resolução sobre a lista:** Mencionada em 01/03/22.
+* **Resolução sobre a homologação:** Mencionada em 01/03/22.
+* **Resolução sobre o anexo:** Mencionada em 01/03/22.
+* **Resolução sobre o acesso:** Mencionada em 01/06/22.
+* **Resolução sobre a repescagem:** Mencionada em 01/03/22.
+* **Resolução sobre a listagem:** Mencionada em 01/03/22.
+* **Resolução sobre os casos:** Mencionada em 01/03/22.
+* **Resolução sobre a vacina:** Mencionada em 01/03/22.
+* **Resolução sobre o ajuste:** Mencionada em 01/03/22.
+* **Resolução sobre o envio:** Mencionada em 01/03/22.
+* **Resolução sobre o arquivo:** Mencionada em 01/02/24.
+* **Resolução da Prograd:** Mencionada em 01/03/24.
+* **Resolução sobre a avaliação:** Mencionada em 01/08/24.
+* **Resolução sobre o decreto:** Mencionada em 01/09/22.
+* **Resolução sobre o período:** Mencionada em 01/03/24.
+* **Resolução sobre o fórum:** Mencionada em 01/09/22.
+* **Resolução sobre o trancamento:** Mencionada em 01/03/22.
+* **Resolução sobre o envio:** Mencionada em 01/03/24.
+* **Resolução sobre a pandemia:** Mencionada em 01/03/22.
+* **Resolução sobre a comissão:** Mencionada em 01/03/24.
+
+Além disso, há menções a INs (Instruções Normativas) em diversos contextos, que também são documentos normativos importantes.",3,43.93379020690918,
+Listar dicas de uso do Sagres,"Com base nas mensagens, aqui estão as dicas de uso do Sagres mencionadas:
+
+*   **Para verificar a lotação (capacidade) de salas:** Acessar o Sagres e ir para a alocação de salas.
+*   **Gerar relatórios de alunos:**
+    *   ""Relatório de alunos instituição"": Para obter uma lista de todos os alunos.
+    *   ""Relatórios particulares Matrícula web"": Para obter relatórios sobre a matrícula web.
+    *   ""Relatórios particulares Alunos aprovação reprovação disciplina"": Para obter relatórios de aprovação e reprovação por disciplina.
+    *   ""Relatório Planejamento Vagas oferecidas preenchidas"": Para relatório de vagas oferecidas e preenchidas.
+    *   ""Quadro evolução alunos quantidade alunos regulares abandono cancelado graduado período"": Para relatório da evolução dos alunos.
+    *   ""Relatório Gerador relatórios Reprovação Aprovação disciplina"": Para relatórios de reprovação e aprovação.
+*   **Para identificar disciplinas com alto índice de reprovação:** Usar relatórios gerados pelo sistema, possivelmente exportando para Excel para análise.
+*   **Para encontrar alunos de um curso:** Gerar lista de calouros no Sagres Acadêmico.
+*   **Lista de alunos matrículados:** Em ""Relatório de alunos instituição"" selecionar o período de ingresso e o curso.
+*   **Para verificar o status de um aluno no processo de vacinação:** Acessar o SisVac.
+*   **Para limpar o cache do navegador:** Procedimento recomendado para resolver problemas de acesso.
+*   **Para encontrar informações sobre um aluno:** Utilizar a lupa de busca no sistema.
+*   **Para verificar se um documento foi alterado:** Validar a assinatura GOV no site do GOV, pois a assinatura é corrompida se o arquivo original for alterado.
+*   **Para encontrar ementas de disciplinas:** Acessar o Sagres Acadêmico.
+*   **Para verificar a alocação de salas:** Acessar o Sagres e ir para a alocação.
+*   **Para visualizar rapidamente a ocupação e distribuição de vagas:** Acessar ""Classe"" no Sagres Acadêmico.
+*   **Para gerar relatório de alunos por curso, com dados de contato:** Usar o relatório ""Alunos Instituição"" e filtrar por curso e período de ingresso.
+*   **Para criar um link para um documento no Sagres:** Inserir o número do documento com o símbolo ""Nº"" no despacho.
+*   **Para contornar problemas de login:** Limpar o cache do navegador.
+*   **Para acessar o menu de relatórios particulares:** Acessar ""Relatório Gerador""
+*   **Para encontrar modelos de documentos:** Verificar a gestão anterior ou solicitar à Prograd.
+*   **Para lidar com assinaturas GOV:** Validar a assinatura GOV no site do GOV, pois a assinatura é corrompida se o arquivo original for alterado.
+*   **Para verificar pendências de alunos:** Acessar o SISVAC.
+*   **Utilizar o campo de observações:** Registrar informações importantes sobre os alunos, como a validação de documentos.
+*   **Para verificar a necessidade de assinatura em atas:** Consultar Maeli para verificar se as ATAs colocadas precisam de assinatura ou se podem ficar públicas.
+*   **Para acessar o calendário:** Verificar a página da Prograd.
+*   **Em caso de problemas com o sistema:** Enviar prints dos erros para a Tecnotrends.
+*   **Para visualizar a capacidade da sala:** Acessar ""alocação"" e verificar a capacidade nos PATS, PAVS e Auditórios.
+*   **Para cadastrar usuários externos:** Contactar o setor responsável para cadastro.
+*   **Para homologar a vacinação:** Utilizar o SISVAC.
+*   **Para trancar um curso:** Entrar com requerimento no expediente.
+*   **Para obter ajuda com o Sagres:** Procurar tutoriais ou solicitar ajuda à Prograd.
+
+Observação: Algumas dicas podem estar desatualizadas, pois as mensagens abrangem um período de tempo considerável (2022-2024). A interface e as funcionalidades do Sagres podem ter mudado desde então.",3,34.12604761123657,
+Quais as palavras mais mencionadas por Rosa?,"As palavras mais mencionadas por Rosa Eugênia são:
+
+1. Gente
+2. Amores
+3. Queridos
+4. Colegiado
+5. Dia
+6. Precisamos
+7. Acredito
+8. Alunos
+9. Ok
+10. informações",3,27.072807788848877,
+Quantas Resoluções CONSEPE foram citadas?,Foram citadas 45 resoluções CONSEPE.,3,41.205907583236694,
+"Quais professores mais participaram das conversas, listando o número de contribuições?","Aqui está a lista dos professores que mais participaram das conversas, juntamente com o número de suas contribuições:
+
+*   **Carla Borges**: 69
+*   **Laurenio Sombra**: 65
+*   **Adriana Queiroz - Agronomia**: 61
+*   **João B. Rocha-Junior**: 55
+*   **Fredson Braz**: 53
+*   **Myria Felix**: 42
+*   **Ana Maria Carvalho**: 41
+*   **🌹 Rosa Eugênia 🌹**: 37
+*   **~ Márcia Misi**: 33
+*   **Silvia Passos**: 32
+*   **Ricardo**: 27
+*   **~ Prof Dra Irlana Jane**: 21
+*   **Gilmar🏋🏾‍♀️UEFS**: 19
+*   **Mauricio**: 17
+*   **~ Alex**: 16
+*   **Luciana Bagdeve**: 15
+*   **Patricia Guimarães Costa**: 14
+*   **~ Juliana Ribeiro**: 12
+*   **🌹 Vera Martin (Prograd)**: 12
+*   **Ingrid Gutiérrez UEFS**: 11
+*   **Marília Lordêlo**: 11
+*   **Saulo Rocha**: 11
+*   **~ Ady Sá Teles**: 9
+*   **Cláudia**: 8
+*   **Camila Leal Col Eng Civil**: 7
+*   **Gleice Cordeiro**: 7
+*   **Fábio DAA**: 5
+*   **Pedro Prates**: 5
+*   **~ Herval Moura**: 4
+*   **~ Janunzi**: 4
+*   **~ Nessa Mascarenhas**: 4
+*   **~ Tiago de Man**: 4
+*   **Diego Lima Prograd**: 3
+*   **~ Afonso 🍀🍁**: 2
+*   **Juliana Leite (Enfermagem UEFS)**: 2
+*   **~ Colegiado de História UEF**: 1
+*   **~ Karla Borges Autêntica Fotografia**: 1
+*   **Fredson Braz**: 1
+*   **~ Liz Souza**: 1
+*   **~ Lucas Nascimento**: 1
+*   **Marcelo Pedreira**: 1
+*   **Silvia Passos**: 1
+*   **~ Vanessa Vieira**: 1
+*   **~ Vinicius Amaro**: 1
+*   **~ Afonso 🍀🍁**: 1
+*   **Antonio Codina UEFS**: 1
+*   **Fredson Braz**: 1
+*   **~ Gilcélia Pires**: 1
+*   **Hélio Ponce**: 1
+*   **~ Kamila Abreu**: 1
+*   **~ Karla Borges Autêntica Fotografia**: 1
+*   **~ Prof Dra Irlana Jane**: 1
+*   **Prograd UEFS**: 1
+*   **~ Roberto Rodrigues Campos**: 1
+*   **~ Rogério Tosta**: 1
+*   **Shirlei Tiara Prograd**: 1
+*   **~ Afonso 🍀🍁**: 1
+*   **~ Márcia Tironi**: 1
+*   **Priscila PLopes**: 1
+*   **~ Roberto Rodrigues Campos**: 1
+*   **~ Rosevaldo**: 1
+*   **Saulo Rocha**: 1
+*   **~ Tiago de Man**: 1
+*   **~ Vanessa Vieira**: 1
+*   **Vera Martin (Prograd)**: 1",3,36.54623866081238,

@@ -1,0 +1,53 @@
+# Arquivos do Poetry
+poetry.lock
+*.pyproj
+.python-version
+
+# Diretórios de ambiente e cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtualenv
+.env/
+.venv/
+venv/
+ENV/
+env/
+
+
+
+# Diretório de build e distribuição
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Arquivos de IDE/Editor
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Arquivos de teste e cobertura
+.coverage
+htmlcov/
+.pytest_cache/
+test_output/
+
+# Arquivos de configuração local
+.settings/
+.local/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Logs e databases
+*.log
+*.sqlite3
+
+ignore.zip
