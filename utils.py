@@ -41,7 +41,7 @@ def is_question_f(mensagem):
 def parse_message(message):
     # Padrão regex para extrair data, hora, autor e conteúdo
     pattern = r'\[(\d{2}/\d{2}/\d{2}), (\d{2}:\d{2}:\d{2})\] (.+?): (.+)'
-    match = re.match(pattern, message)
+    match = re.search(pattern, message)
  
 
     if match:
